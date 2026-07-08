@@ -1,0 +1,60 @@
+{
+  "@@locale": "vi",
+  "appTitle": "Trenx",
+  "slideOne": "Trang 1",
+  "slideTwo": "Trang 2",
+  "slideThree": "Trang 3",
+  "getStarted": "Bắt đầu",
+  "email": "Email",
+  "password": "Mật khẩu",
+  "login": "Đăng nhập",
+  "goToRegister": "Đăng ký",
+  "invalidCredentials": "Thông tin đăng nhập không hợp lệ",
+  "name": "Họ và tên",
+  "register": "Đăng ký",
+  "backToLogin": "Quay lại đăng nhập",
+  "nameRequired": "Vui lòng nhập họ và tên",
+  "invalidEmailFormat": "Định dạng email không hợp lệ",
+  "passwordTooShort": "Mật khẩu phải có ít nhất 6 ký tự",
+  "searchExercises": "Tìm kiếm bài tập",
+  "noExercisesFound": "Không tìm thấy bài tập",
+  "socialFeed": "Bảng tin",
+  "userProfile": "Hồ sơ",
+  "likedTab": "Đã thích",
+  "settings": "Cài đặt",
+  "tabDashboard": "Trang chủ",
+  "tabExplore": "Khám phá",
+  "tabFeed": "Bảng tin",
+  "tabProfile": "Hồ sơ",
+  "like": "Thích",
+  "back": "Quay lại",
+  "startWorkout": "Bắt đầu tập",
+  "exerciseSet": "Hiệp {index}",
+  "@exerciseSet": {
+    "placeholders": {
+      "index": { "type": "int" }
+    }
+  },
+  "next": "Tiếp theo",
+  "finish": "Hoàn thành",
+  "closeSummary": "Đóng kết quả",
+  "selectGoal": "Chọn mục tiêu",
+  "goalWeightLoss": "Giảm cân",
+  "goalConditioning": "Thể lực tổng thể",
+  "goalBodybuilding": "Thể hình nâng cao",
+  "save": "Lưu",
+  "logout": "Đăng xuất",
+  "unlike": "Bỏ thích {exercise}",
+  "@unlike": {
+    "placeholders": {
+      "exercise": { "type": "String" }
+    }
+  },
+  "currentPlan": "Kế hoạch {goal}",
+  "@currentPlan": {
+    "placeholders": {
+      "goal": { "type": "String" }
+    }
+  },
+  "workoutOne": "Buổi tập 1"
+}

@@ -1,0 +1,60 @@
+{
+  "@@locale": "en",
+  "appTitle": "Trenx",
+  "slideOne": "Slide 1",
+  "slideTwo": "Slide 2",
+  "slideThree": "Slide 3",
+  "getStarted": "Get Started",
+  "email": "Email",
+  "password": "Password",
+  "login": "Login",
+  "goToRegister": "Go to Register",
+  "invalidCredentials": "Invalid credentials",
+  "name": "Name",
+  "register": "Register",
+  "backToLogin": "Back to Login",
+  "nameRequired": "Name is required",
+  "invalidEmailFormat": "Invalid email format",
+  "passwordTooShort": "Password must be at least 6 characters",
+  "searchExercises": "Search Exercises",
+  "noExercisesFound": "No exercises found",
+  "socialFeed": "Social Feed",
+  "userProfile": "User Profile",
+  "likedTab": "Liked Tab",
+  "settings": "Settings",
+  "tabDashboard": "Dashboard",
+  "tabExplore": "Explore",
+  "tabFeed": "Feed",
+  "tabProfile": "Profile",
+  "like": "Like",
+  "back": "Back",
+  "startWorkout": "Start Workout",
+  "exerciseSet": "Exercise Set {index}",
+  "@exerciseSet": {
+    "placeholders": {
+      "index": { "type": "int" }
+    }
+  },
+  "next": "Next",
+  "finish": "Finish",
+  "closeSummary": "Close Summary",
+  "selectGoal": "Select Goal",
+  "goalWeightLoss": "Weight Loss",
+  "goalConditioning": "General Conditioning",
+  "goalBodybuilding": "Advanced Bodybuilding",
+  "save": "Save",
+  "logout": "Logout",
+  "unlike": "Unlike {exercise}",
+  "@unlike": {
+    "placeholders": {
+      "exercise": { "type": "String" }
+    }
+  },
+  "currentPlan": "{goal} Plan",
+  "@currentPlan": {
+    "placeholders": {
+      "goal": { "type": "String" }
+    }
+  },
+  "workoutOne": "Workout 1"
+}
