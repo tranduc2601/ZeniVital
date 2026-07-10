@@ -1,4 +1,4 @@
-# trenx
+# ZeniVital by mduc
 
 A new Flutter project.
 
